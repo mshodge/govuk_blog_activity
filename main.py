@@ -43,7 +43,7 @@ def scrape_links(base_url):
 
         data.append({
             'Link Text': link_text,
-            'URL': full_url,
+            'URL': f"[{full_url}]({full_url})",
             'Active Dates Count': len(active_dates),
             'Activity': activity_bar
         })
