@@ -63,7 +63,7 @@ def save_to_markdown(data, filename):
         f.write(df.to_markdown(index=False))
         f.write("\n\n")
         f.write("### Notes\n")
-        f.write("- `Active Dates Count` indicates how many updates were made within the last 6 months.\n")
+        f.write("- `Active Dates Count` indicates how many updates were made within the last 6 months (10 is the max as the scraper only loads the first page).\n")
         f.write("- `Activity` provides a visual representation of the updates using a bar chart. "
                 "Each bar represents one update.\n")
         f.write("- This method has not been verified or checked, please do not assume results are 100% correct.\n")
