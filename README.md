@@ -10,7 +10,7 @@ This report contains the scraped links, their update frequency within the last 6
 | Accessibility in government                                    | [https://accessibility.blog.gov.uk](https://accessibility.blog.gov.uk)                                     |                    6 | ▮▮▮▮▮▮     |
 | Actuaries in government                                        | [https://actuaries.blog.gov.uk](https://actuaries.blog.gov.uk)                                             |                    7 | ▮▮▮▮▮▮▮    |
 | BEIS Digital                                                   | [https://beisdigital.blog.gov.uk](https://beisdigital.blog.gov.uk)                                         |                    0 |            |
-| Buying for Schools                                             | [https://buyingforschools.blog.gov.uk](https://buyingforschools.blog.gov.uk)                               |                    5 | ▮▮▮▮▮      |
+| Buying for Schools                                             | [https://buyingforschools.blog.gov.uk](https://buyingforschools.blog.gov.uk)                               |                    6 | ▮▮▮▮▮▮     |
 | Cabinet Office Digital                                         | [https://codigital.blog.gov.uk](https://codigital.blog.gov.uk)                                             |                    1 | ▮          |
 | Central Digital and Data Office                                | [https://cddo.blog.gov.uk](https://cddo.blog.gov.uk)                                                       |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | Charity Commission                                             | [https://charitycommission.blog.gov.uk](https://charitycommission.blog.gov.uk)                             |                    4 | ▮▮▮▮       |
@@ -72,7 +72,7 @@ This report contains the scraped links, their update frequency within the last 6
 | HM Land Registry                                               | [https://hmlandregistry.blog.gov.uk](https://hmlandregistry.blog.gov.uk)                                   |                    9 | ▮▮▮▮▮▮▮▮▮  |
 | History of government                                          | [https://history.blog.gov.uk](https://history.blog.gov.uk)                                                 |                    0 |            |
 | Home Office Digital, Data and Technology                       | [https://hodigital.blog.gov.uk](https://hodigital.blog.gov.uk)                                             |                    2 | ▮▮         |
-| Home Office in the media                                       | [https://homeofficemedia.blog.gov.uk](https://homeofficemedia.blog.gov.uk)                                 |                    4 | ▮▮▮▮       |
+| Home Office in the media                                       | [https://homeofficemedia.blog.gov.uk](https://homeofficemedia.blog.gov.uk)                                 |                    5 | ▮▮▮▮▮      |
 | ICS Digital                                                    | [https://icsdigital.blog.gov.uk](https://icsdigital.blog.gov.uk)                                           |                    5 | ▮▮▮▮▮      |
 | Infrastructure and Projects Authority                          | [https://ipa.blog.gov.uk](https://ipa.blog.gov.uk)                                                         |                    0 |            |
 | Inside DIO                                                     | [https://insideDIO.blog.gov.uk](https://insideDIO.blog.gov.uk)                                             |                    7 | ▮▮▮▮▮▮▮    |
@@ -130,7 +130,7 @@ This report contains the scraped links, their update frequency within the last 6
 | The Ofqual blog                                                | [https://ofqual.blog.gov.uk](https://ofqual.blog.gov.uk)                                                   |                    3 | ▮▮▮        |
 | The Prison Leavers Project                                     | [https://prisonleaversproject.blog.gov.uk](https://prisonleaversproject.blog.gov.uk)                       |                    0 |            |
 | Trade Remedies Authority                                       | [https://traderemedies.blog.gov.uk](https://traderemedies.blog.gov.uk)                                     |                    2 | ▮▮         |
-| UK Government Sustainable ICT                                  | [https://sustainableict.blog.gov.uk](https://sustainableict.blog.gov.uk)                                   |                    5 | ▮▮▮▮▮      |
+| UK Government Sustainable ICT                                  | [https://sustainableict.blog.gov.uk](https://sustainableict.blog.gov.uk)                                   |                    6 | ▮▮▮▮▮▮     |
 | UK Health Security Agency                                      | [https://ukhsa.blog.gov.uk](https://ukhsa.blog.gov.uk)                                                     |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | UK Hydrographic Office                                         | [https://ukhodigital.blog.gov.uk](https://ukhodigital.blog.gov.uk)                                         |                    1 | ▮          |
 | UK National Screening Committee                                | [https://nationalscreening.blog.gov.uk](https://nationalscreening.blog.gov.uk)                             |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
@@ -142,7 +142,7 @@ This report contains the scraped links, their update frequency within the last 6
 | Working in the Prison and Probation Service                    | [https://prisonjobs.blog.gov.uk](https://prisonjobs.blog.gov.uk)                                           |                    7 | ▮▮▮▮▮▮▮    |
 
 ### Notes
-- `Active Dates Count` indicates how many updates were made within the last 6 months.
+- `Active Dates Count` indicates how many updates were made within the last 6 months (10 is the max as the scraper only loads the first page).
 - `Activity` provides a visual representation of the updates using a bar chart. Each bar represents one update.
 - This method has not been verified or checked, please do not assume results are 100% correct.
 - Requests are limited to every 5 seconds inline with fair use policies.
