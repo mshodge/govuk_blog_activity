@@ -12,7 +12,6 @@ This report contains the scraped links, their update frequency within the last 6
 | BEIS Digital                                                   | [https://beisdigital.blog.gov.uk](https://beisdigital.blog.gov.uk)                                         |                    0 |            |
 | Buying for Schools                                             | [https://buyingforschools.blog.gov.uk](https://buyingforschools.blog.gov.uk)                               |                    7 | ▮▮▮▮▮▮▮    |
 | Cabinet Office Digital                                         | [https://codigital.blog.gov.uk](https://codigital.blog.gov.uk)                                             |                    1 | ▮          |
-| Central Digital and Data Office                                | [https://cddo.blog.gov.uk](https://cddo.blog.gov.uk)                                                       |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | Charity Commission                                             | [https://charitycommission.blog.gov.uk](https://charitycommission.blog.gov.uk)                             |                    4 | ▮▮▮▮       |
 | Children’s social care                                         | [https://childrenssocialcare.blog.gov.uk](https://childrenssocialcare.blog.gov.uk)                         |                    0 |            |
 | Civil Service                                                  | [https://civilservice.blog.gov.uk](https://civilservice.blog.gov.uk)                                       |                    5 | ▮▮▮▮▮      |
@@ -25,7 +24,7 @@ This report contains the scraped links, their update frequency within the last 6
 | Committee on Standards in Public Life                          | [https://cspl.blog.gov.uk](https://cspl.blog.gov.uk)                                                       |                    1 | ▮          |
 | Community Interest Companies                                   | [https://communityinterestcompanies.blog.gov.uk](https://communityinterestcompanies.blog.gov.uk)           |                    0 |            |
 | Companies House                                                | [https://companieshouse.blog.gov.uk](https://companieshouse.blog.gov.uk)                                   |                    2 | ▮▮         |
-| Competition and Markets Authority                              | [https://competitionandmarkets.blog.gov.uk](https://competitionandmarkets.blog.gov.uk)                     |                    6 | ▮▮▮▮▮▮     |
+| Competition and Markets Authority                              | [https://competitionandmarkets.blog.gov.uk](https://competitionandmarkets.blog.gov.uk)                     |                    5 | ▮▮▮▮▮      |
 | Creating a better place                                        | [https://environmentagency.blog.gov.uk](https://environmentagency.blog.gov.uk)                             |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | DCMS Libraries                                                 | [https://dcmslibraries.blog.gov.uk](https://dcmslibraries.blog.gov.uk)                                     |                    3 | ▮▮▮        |
 | DHSC Healthcare leaders                                        | [https://healthcareleaders.blog.gov.uk](https://healthcareleaders.blog.gov.uk)                             |                    0 |            |
@@ -33,7 +32,7 @@ This report contains the scraped links, their update frequency within the last 6
 | DVSA digital                                                   | [https://dvsadigital.blog.gov.uk](https://dvsadigital.blog.gov.uk)                                         |                    0 |            |
 | DWP Digital                                                    | [https://dwpdigital.blog.gov.uk](https://dwpdigital.blog.gov.uk)                                           |                    1 | ▮          |
 | Data in government                                             | [https://dataingovernment.blog.gov.uk](https://dataingovernment.blog.gov.uk)                               |                    0 |            |
-| Defence Digital                                                | [https://defencedigital.blog.gov.uk](https://defencedigital.blog.gov.uk)                                   |                    3 | ▮▮▮        |
+| Defence Digital                                                | [https://defencedigital.blog.gov.uk](https://defencedigital.blog.gov.uk)                                   |                    2 | ▮▮         |
 | Defra digital, data, technology and security                   | [https://defradigital.blog.gov.uk](https://defradigital.blog.gov.uk)                                       |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | Defra in the media                                             | [https://deframedia.blog.gov.uk](https://deframedia.blog.gov.uk)                                           |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | Department for Transport digital                               | [https://dftdigital.blog.gov.uk](https://dftdigital.blog.gov.uk)                                           |                    0 |            |
@@ -60,6 +59,7 @@ This report contains the scraped links, their update frequency within the last 6
 | Geospatial Commission                                          | [https://geospatialcommission.blog.gov.uk](https://geospatialcommission.blog.gov.uk)                       |                    5 | ▮▮▮▮▮      |
 | Government Data Architecture                                   | [https://dataarchitecture.blog.gov.uk](https://dataarchitecture.blog.gov.uk)                               |                    0 |            |
 | Government Digital Service                                     | [https://gds.blog.gov.uk](https://gds.blog.gov.uk)                                                         |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
+| Government Digital and Data                                    | [https://cddo.blog.gov.uk](https://cddo.blog.gov.uk)                                                       |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | Government Geography Profession                                | [https://geography.blog.gov.uk](https://geography.blog.gov.uk)                                             |                    0 |            |
 | Government Grants Community                                    | [https://grantscommunity.blog.gov.uk](https://grantscommunity.blog.gov.uk)                                 |                    0 |            |
 | Government Internal Audit Agency                               | [https://giaa.blog.gov.uk](https://giaa.blog.gov.uk)                                                       |                    0 |            |
@@ -99,7 +99,7 @@ This report contains the scraped links, their update frequency within the last 6
 | Natural England                                                | [https://naturalengland.blog.gov.uk](https://naturalengland.blog.gov.uk)                                   |                   10 | ▮▮▮▮▮▮▮▮▮▮ |
 | No 10 media blog                                               | [https://no10media.blog.gov.uk](https://no10media.blog.gov.uk)                                             |                    0 |            |
 | ONS Digital, Data and Technology                               | [https://onsdigital.blog.gov.uk](https://onsdigital.blog.gov.uk)                                           |                    1 | ▮          |
-| Office for Product Safety and Standards                        | [https://opss.blog.gov.uk](https://opss.blog.gov.uk)                                                       |                    6 | ▮▮▮▮▮▮     |
+| Office for Product Safety and Standards                        | [https://opss.blog.gov.uk](https://opss.blog.gov.uk)                                                       |                    5 | ▮▮▮▮▮      |
 | Office of Financial Sanctions Implementation                   | [https://ofsi.blog.gov.uk](https://ofsi.blog.gov.uk)                                                       |                    2 | ▮▮         |
 | Office of Trade Sanctions Implementation                       | [https://otsi.blog.gov.uk](https://otsi.blog.gov.uk)                                                       |                    2 | ▮▮         |
 | Office of the Public Guardian                                  | [https://publicguardian.blog.gov.uk](https://publicguardian.blog.gov.uk)                                   |                    1 | ▮          |
